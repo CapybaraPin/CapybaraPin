@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there, I'm [CapybaraPin](http://www.simplonline.com) <img src="https://github.com/CapybaraPin/CapybaraPin/blob/main/hand.gif" width="3%"> <br><span style="font-size: 5px;">I'm Developper web !</span></h1>
+### <h1 align="center">Hi there, I'm [CapybaraPin](http://www.simplonline.com) <img src="https://github.com/CapybaraPin/CapybaraPin/blob/main/hand.gif" width="3%"> I'm Developper web !</h1>
 
 # <h3>📜 My skills : </h3>
 * PHP : [#########+] 90 %
