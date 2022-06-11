@@ -1,5 +1,3 @@
-##### <h1 align="center">Hi there, I'm [CapybaraPin](https://capybarapin.com) <img src="https://github.com/CapybaraPin/CapybaraPin/blob/main/hand.gif" width="3%"><br> I'm Developper web !</h1><br>  
-
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
