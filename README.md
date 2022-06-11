@@ -1,1 +1,1 @@
- ![readme-image2](https://github.com/CapybaraPin/CapybaraPin/blob/main/github-metrics.svg) 
+<img src"https://github.com/CapybaraPin/CapybaraPin/blob/main/github-metrics.svg" align="center">
