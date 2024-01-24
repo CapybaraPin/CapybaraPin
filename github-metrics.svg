@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            339 Commits
+                            341 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 12 repositories
+                            Starred 13 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.35420898354903" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="249.35420898354903" y="0" width="102.95379867091633" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="352.30800765446537" y="0" width="65.43726291804106" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="417.74527057250646" y="0" width="23.108092864893077" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="440.85336343739954" y="0" width="7.068114520282027" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.92147795768153" y="0" width="5.973683365468157" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="453.8951613231497" y="0" width="3.26560913470258" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="457.1607704578523" y="0" width="2.839229542147728" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.33235431334106" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="249.33235431334106" y="0" width="102.94477527674229" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="352.27712959008335" y="0" width="65.49381265515396" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.7709422452373" y="0" width="23.10606755418845" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="440.8770097994257" y="0" width="7.067495034802063" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.94450483422776" y="0" width="5.951191548011145" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="453.89569638223895" y="0" width="3.265322920120688" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="457.16101930235965" y="0" width="2.838980697640385" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1328,7 +1328,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2024, 17:02:02 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 18:01:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
